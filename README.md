@@ -1,7 +1,7 @@
-### XROM LAB — Official Language Packs
+# XROM LAB — Official Language Packages
 
-The official repository for language packs supported by **XROM LAB**, a software development environment developed by **EEPX Labs**. This repository provides language packages intended for use with the XROM LAB ecosystem.
+The official repository for language packages supported by **XROM LAB**, a software development environment developed by **EEPX Labs**.
 
-**© EEPX Labs. All rights reserved.**
+**Copyright © EEPX Labs. All rights reserved, except where otherwise stated.**
 
-Third-party components remain subject to their respective licenses. See the applicable license files and notices for usage and redistribution terms.
+Third-party components remain subject to their respective licenses. Each package must be used and redistributed in accordance with its applicable license and notices.
